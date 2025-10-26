@@ -1,4 +1,4 @@
-/*         Variable
+//         Variable
 
 //* let*  is changeable variable
 let name = " TALHA ";
@@ -30,7 +30,7 @@ console.log(a);        */
              f) null
              g) Symbol      */
 
-/*let string = " TALHA RIAZ ";          // a) String 
+let string = " TALHA RIAZ ";          // a) String 
 let number = 6241;                    // b) Number 
 let bigInt = 9007199254741991n;      // c) BigInt
 let boolean = true;                   // d) Boolean 
@@ -44,7 +44,7 @@ console.log( bigInt, typeof bigInt );
 console.log( boolean, typeof boolean );
 console.log( undef, typeof undef );
 console.log( nul, typeof nul );
-console.log( symbol, typeof symbol );                   */
+console.log( symbol, typeof symbol );                   
 
 // 2. Non-Primitive Data Types
 
