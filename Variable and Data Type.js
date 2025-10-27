@@ -15,7 +15,7 @@ console.log(id);
 //* Var * is also changeable variable but its use is discouraged in modern JavaScript                   
 var a = 7;
 var a = 50;
-console.log(a);        */
+console.log(a);
 
 //        * Data Types *
 
