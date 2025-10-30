@@ -40,8 +40,8 @@ console.log(e); // display concatenated array
 // array into an array problem
 let f = [a, b, c, d, e]; // array of arrays
 console.log(f); // display array of arrays
-// the solution of array into an array problem is to use * spread operator * 
 
+// the solution of array into an array problem is to use * spread operator * 
 let g = [...a, ...b, ...c, ...d, ...e]; // use spread operator to flatten arrays
 console.log(g); // display flattened array
 
