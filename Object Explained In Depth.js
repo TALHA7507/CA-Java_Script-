@@ -1,4 +1,4 @@
-
+/*
 // CRUD Operations on Object in JavaScript
 //CRUD stands for = Create, Read, Update, Delete
 
@@ -9,9 +9,7 @@ let obj = {
     city : " Sheikhupura ",
     profession : " Student ",
 };
-
-
-console.log(obj); //old way to display object
+//console.log(obj); //old way to display object
 
 // best way to access object properties
 console.log(`My name is ${obj.name}. My age is ${obj.age} years old. Currently I live in ${obj.city}. I am a ${obj.profession}.`);  // display object properties using template literals
@@ -66,7 +64,7 @@ console.log(Object.values(addr));   // display all values of addr object
 // for entries in object          // entries like key and value pair in array
 console.log(Object.entries(addr));   // display all entries of addr object
 
-   // for loop to iterate keys
+// for loop to iterate keys
 for (let keys in addr) {
     console.log(keys);
 }
@@ -202,12 +200,10 @@ obj2.city.near = " bbbbb ";
 console.log(obj);
 
 
-
-
-
-
 //   Pointer  
 // three types of Pointer
 // 1. Map Pointer             jaga k bta dy ga k yha ho gy khi 
 // 2. Property Pointer        exact jaga k bta dy ga k yha ha 
 // 3. Element Pointer         us jaga k area or capacity 1 trha sy ha k is ma capacity itni or array type hi ha 
+
+*/
